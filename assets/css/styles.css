@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
 .video-container {
   position: relative;
-  padding-bottom: 56.25%;
+  padding-bottom: 56.22&;
   padding-top: 30px;
   height: 0;
   overflow: hidden;
@@ -745,17 +745,17 @@ form textarea.form-control {
 header {
   background: #005fbf;
   /* Old browsers */
-  background: -moz-linear-gradient(-45deg, #005fbf 0%, #005fbf 100%);
+  background: -moz-radial-gradient(#007fff 2%, #005fbf 98%);
   /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #005fbf), color-stop(100%, #005fbf));
+  background: -webkit-radial(linear, left top, right bottom, color-stop(2%, #007fff), color-stop(98%, #005fbf));
   /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg, #005fbf 0%, #005fbf 100%);
+  background: -webkit-radial-gradient( #007fff 2%, #005fbf 98%);
   /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg, #005fbf 0%, #005fbf 100%);
+  background: -o-radial-gradient(#007fff 2%, #005fbf 98%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg, #005fbf 0%, #005fbf 100%);
+  background: -ms-radial-gradient(#007fff 2%, #005fbf 98%);
   /* IE10+ */
-  background: linear-gradient(-45deg, #005fbf 0%, #005fbf 100%);
+  background: radial-gradient(#007fff 2%, #005fbf 98%);
   /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#005fbf, endColorstr=#005fbf, GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
@@ -985,17 +985,17 @@ section#support .media:hover h3 {
 footer {
   background: #005fbf;
   /* Old browsers */
-  background: -moz-linear-gradient(-45deg, #005fbf 0%, #005fbf 100%);
+  background: -moz-radial-gradient(#007fff 2%, #005fbf 98%);
   /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #005fbf), color-stop(100%, #005fbf));
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(2%, #007fff), color-stop(98%, #005fbf));
   /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg, #005fbf 0%, #005fbf 100%);
+  background: -webkit-radial-gradient(#007fff 2%, #005fbf 98%);
   /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg, #005fbf 0%, #005fbf 100%);
+  background: -o-radial-gradient(#007fff 2%, #005fbf 98%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg, #005fbf 0%, #005fbf 100%);
+  background: -ms-radial-gradient(#005fbf 2%, #005fbf 98%);
   /* IE10+ */
-  background: linear-gradient(-45deg, #005fbf 0%, #005fbf 100%);
+  background: radial-gradient(#007fff 2%, #005fbf 98%);
   /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#005fbf, endColorstr=#005fbf, GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
