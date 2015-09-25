@@ -870,7 +870,20 @@ section#features .media.active .media-heading {
 }
 section#reviews {
   /*background: url("../img/freeze/bk-freeze.jpg");*/
-  background-color:#005fbf;
+  /*background-color:#005fbf;*/
+  background: #005fbf;
+  /* Old browsers */
+  background: -moz-radial-gradient(#007fff 2%, #005fbf 98%);
+  /* FF3.6+ */
+  background: -webkit-radial(linear, left top, right bottom, color-stop(2%, #007fff), color-stop(98%, #005fbf));
+  /* Chrome,Safari4+ */
+  background: -webkit-radial-gradient( #007fff 2%, #005fbf 98%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-radial-gradient(#007fff 2%, #005fbf 98%);
+  /* Opera 11.10+ */
+  background: -ms-radial-gradient(#007fff 2%, #005fbf 98%);
+  /* IE10+ */
+  background: radial-gradient(#007fff 2%, #005fbf 98%);
 }
 section#reviews header {
   color: #005fbf;
@@ -938,7 +951,20 @@ section#demo header h1:after {
 }
 /* Get app Section */
 section#getApp {
-  background: url("../img/freeze/bk-freeze-ga.jpg");
+  /*background: url("../img/freeze/bk-freeze-ga.jpg");*/
+  background: #005fbf;
+  /* Old browsers */
+  background: -moz-radial-gradient(#007fff 2%, #005fbf 98%);
+  /* FF3.6+ */
+  background: -webkit-radial(linear, left top, right bottom, color-stop(2%, #007fff), color-stop(98%, #005fbf));
+  /* Chrome,Safari4+ */
+  background: -webkit-radial-gradient( #007fff 2%, #005fbf 98%);
+  /* Chrome10+,Safari5.1+ */
+  background: -o-radial-gradient(#007fff 2%, #005fbf 98%);
+  /* Opera 11.10+ */
+  background: -ms-radial-gradient(#007fff 2%, #005fbf 98%);
+  /* IE10+ */
+  background: radial-gradient(#007fff 2%, #005fbf 98%);
 }
 section#getApp header {
   color: #ffffff;
