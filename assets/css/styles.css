@@ -743,7 +743,7 @@ form textarea.form-control {
   }
 }
 header {
-  background: #005fbf;
+  background: #007fff;
   /* Old browsers */
   background: -moz-radial-gradient(#007fff 2%, #005fbf 98%);
   /* FF3.6+ */
@@ -816,61 +816,61 @@ header .navbar-default ul.navbar-nav li a:hover {
   transition: all 0.25s ease-in-out;
 }
 header .navbar-default.scrolled {
-  border-bottom: 3px solid #005fbf;
+  border-bottom: 3px solid #007fff;
 }
 header .navbar-default.scrolled ul.navbar-nav li a {
-  color: #005fbf;
+  color: #007fff;
 }
 header .navbar-default.scrolled ul.navbar-nav li a:hover {
-  color: #005fbf;
+  color: #007fff;
 }
 header .navbar-default.scrolled ul.navbar-nav li a:hover:after {
-  background: #005fbf;
+  background: #007fff;
 }
 header .navbar-default.scrolled .navbar-brand {
-  background: #005fbf;
+  background: #007fff;
 }
 section .section-heading .divider:after {
-  background: #005fbf;
+  background: #007fff;
 }
 section#about .about-item i.fa {
-  border: 2px solid #005fbf;
-  color: #005fbf;
+  border: 2px solid #007fff;
+  color: #007fff;
 }
 section#about .about-item:hover i.fa {
   color: #ffffff;
-  background: #005fbf;
+  background: #007fff;
 }
 section#about .about-item:hover h3 {
-  color: #005fbf;
+  color: #007fff;
 }
 section#features {
   background: #f6f6f6;
 }
 section#features header h1:after {
-  background: #005fbf;
+  background: #007fff;
 }
 section#features .media i.fa {
-  border: 2px solid #005fbf;
-  color: #005fbf;
+  border: 2px solid #007fff;
+  color: #007fff;
 }
 section#features .media:hover i.fa {
   color: #ffffff;
-  background: #005fbf;
+  background: #007fff;
 }
 section#features .media:hover h3 {
-  color: #005fbf;
+  color: #007fff;
 }
 section#features .media.active i.fa {
   color: #ffffff;
-  background: #005fbf;
+  background: #007fff;
 }
 section#features .media.active .media-heading {
-  color: #005fbf;
+  color: #007fff;
 }
 section#reviews {
   /*background: url("../img/freeze/bk-freeze.jpg");*/
-  /*background-color:#005fbf;*/
+  /*background-color:#007fff;*/
   background: #005fbf;
   /* Old browsers */
   background: -moz-radial-gradient(#007fff 2%, #005fbf 98%);
@@ -886,10 +886,10 @@ section#reviews {
   background: radial-gradient(#007fff 2%, #005fbf 98%);
 }
 section#reviews header {
-  color: #005fbf;
+  color: #007fff;
 }
 section#reviews header h1:after {
-  background: #005fbf;
+  background: #007fff;
 }
 section#reviews .review-filtering .review .review-person img {
   border: 3px solid #ffffff;
@@ -898,10 +898,10 @@ section#reviews .review-filtering .review .review-comment {
   background: #ffffff;
 }
 section#reviews .review-filtering .review .review-comment h3 {
-  color: #005fbf;
+  color: #007fff;
 }
 section#reviews .review-filtering .review .review-comment p span i {
-  color: #005fbf;
+  color: #007fff;
 }
 section#reviews .review-filtering .review .review-comment:after {
   border-right-color: #ffffff;
@@ -911,10 +911,10 @@ section#reviews .review-filtering .slick-dots li button {
   border: 2px solid #ffffff;
 }
 section#reviews .review-filtering .slick-dots li.slick-active button {
-  background: #005fbf;
+  background: #007fff;
 }
 section#screens header h1:after {
-  background: #005fbf;
+  background: #007fff;
 }
 section#screens .slider div img {
   border: 2px solid #e5e5e5;
@@ -926,7 +926,7 @@ section#screens .slider .slick-dots li button {
   background: #999999;
 }
 section#screens .slider .slick-dots li.slick-active button {
-  background: #005fbf;
+  background: #007fff;
 }
 section#screens .filter a {
   border: 2px solid #cccccc;
@@ -934,25 +934,25 @@ section#screens .filter a {
 }
 section#screens .filter a:hover {
   color: #ffffff;
-  background: #005fbf;
-  border-color: #005fbf;
+  background: #007fff;
+  border-color: #007fff;
 }
 section#screens .filter a.active {
   color: #ffffff;
-  background: #005fbf;
-  border-color: #005fbf;
+  background: #007fff;
+  border-color: #007fff;
 }
 /* demo video Section */
 section#demo {
   background: #f6f6f6;
 }
 section#demo header h1:after {
-  background: #005fbf;
+  background: #007fff;
 }
 /* Get app Section */
 section#getApp {
   /*background: url("../img/freeze/bk-freeze-ga.jpg");*/
-  background: #005fbf;
+  background: #007fff;
   /* Old browsers */
   background: -moz-radial-gradient(#007fff 2%, #005fbf 98%);
   /* FF3.6+ */
@@ -987,29 +987,29 @@ section#getApp .platforms .media:hover {
 }
 section#getApp .platforms .media:hover a i,
 section#getApp .platforms .media:hover a div.media-body {
-  color: #005fbf;
+  color: #007fff;
 }
 /* support section */
 section#support header h1:after {
-  background: #005fbf;
+  background: #007fff;
 }
 section#support .media i.fa {
-  border: 2px solid #005fbf;
-  color: #005fbf;
+  border: 2px solid #007fff;
+  color: #007fff;
 }
 section#support .media a {
-  color: #005fbf;
+  color: #007fff;
 }
 section#support .media:hover i.fa {
   color: #ffffff;
-  background: #005fbf;
+  background: #007fff;
 }
 section#support .media:hover h3 {
-  color: #005fbf;
+  color: #007fff;
 }
 /* footer section */
 footer {
-  background: #005fbf;
+  background: #007fff;
   /* Old browsers */
   background: -moz-radial-gradient(#007fff 2%, #005fbf 98%);
   /* FF3.6+ */
@@ -1036,7 +1036,7 @@ footer .social a:hover {
   background: #ffffff;
 }
 footer .social a:hover i {
-  color: #005fbf;
+  color: #007fff;
 }
 footer .rights {
   color: #ffffff;
@@ -1052,12 +1052,12 @@ footer .rights a {
 }
 .btn.btn-primary {
   color: #007fff;
-  border-color: #005fbf;
+  border-color: #007fff;
 }
 .btn.btn-primary:hover {
   color: #ffffff;
-  background: #005fbf;
-  border-color: #005fbf;
+  background: #007fff;
+  border-color: #007fff;
 }
 .btn.btn-primary.inverse {
   color: #ffffff;
@@ -1065,8 +1065,8 @@ footer .rights a {
 }
 .btn.btn-primary.inverse:hover {
   color: #ffffff;
-  background: #005fbf;
-  border-color: #005fbf;
+  background: #007fff;
+  border-color: #007fff;
 }
 .btn.btn-default {
   background: #ffffff;
@@ -1085,13 +1085,13 @@ footer .rights a {
   /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ffffff, endColorstr=#cccccc, GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
-  color: #005fbf;
+  color: #007fff;
 }
 .btn.btn-default:hover {
-  color: #005fbf;
+  color: #007fff;
 }
 form .form-control:focus {
-  border-color: #005fbf;
+  border-color: #007fff;
   color: #999999;
 }
 @media screen and (max-width: 640px) {
@@ -1110,21 +1110,21 @@ form .form-control:focus {
     display: none;
   }
   header .navbar-default ul.navbar-nav li a:hover {
-    color: #005fbf;
+    color: #007fff;
   }
   header .navbar-default .navbar-collapse {
-    background: #005fbf;
+    background: #007fff;
   }
   header .navbar-default.scrolled {
-    background: #005fbf;
+    background: #007fff;
   }
   header .navbar-default.scrolled ul.navbar-nav li a {
     color: #ffffff;
   }
   header .navbar-default.scrolled ul.navbar-nav li a:hover {
-    color: #005fbf;
+    color: #007fff;
   }
 }
 .pre-loader {
-  background: #005fbf;
+  background: #007fff;
 }
